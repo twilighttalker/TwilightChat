@@ -1,0 +1,4 @@
+name: TwilightChat
+version: '1.0'
+main: org.twilightspeaker.twilightChat.TwilightChat
+api-version: '1.21.11'
